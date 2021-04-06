@@ -6,7 +6,7 @@ class Main {
   public static void main(String args[]) {
 
     JFrame frame = new JFrame();
-    ImageIcon icon = new ImageIcon("Insert image here");
+    ImageIcon icon = new ImageIcon("DumplingSoup.java");
     JLabel label = new JLabel(icon);
     frame.add(label);
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
